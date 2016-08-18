@@ -1,0 +1,17 @@
+{
+    "name": "kalam-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Indian Type Foundry"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/kalam-bower.git"
+    },
+    "description": "Kalam font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
